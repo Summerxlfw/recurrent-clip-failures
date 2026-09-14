@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite these evaluation materials and the accompanying manuscript when using this work."
+type: software
+title: "Recurrent clip-level failures in video polyp segmentation"
+authors:
+  - family-names: Xia
+    given-names: Tian
+  - family-names: Wang
+    given-names: Zhenqing
+  - family-names: Sun
+    given-names: Liping
+abstract: "Code for descriptive clip-level reporting and paired retained-risk analyses, synthetic examples, and derived manuscript tables."

@@ -1,0 +1,13 @@
+model,evaluated_clips,failing_clips,reference_overlap,reference_set_size
+BGANet,173,25,20,24
+PVT-CASCADE,173,14,13,24
+CTNet,173,10,8,24
+EAT,173,22,19,24
+FCBFormer,173,4,4,24
+HAT-SAM3,173,11,10,24
+HarD-MSEG,173,80,24,24
+MEGANet,173,20,19,24
+PolypPVT,173,6,6,24
+PraNet,173,60,24,24
+SANet,173,22,17,24
+TransNetR,173,45,24,24

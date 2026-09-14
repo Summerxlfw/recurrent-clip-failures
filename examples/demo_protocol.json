@@ -1,0 +1,30 @@
+{
+  "schema": "h2_posthoc_protocol/1",
+  "synthetic_demo": true,
+  "families": [
+    "uac_base",
+    "pranet_plain"
+  ],
+  "seeds": [
+    44,
+    45
+  ],
+  "expected": {
+    "sun": {
+      "frames_per_run": 6,
+      "clips_per_run": 6
+    },
+    "pg": {
+      "frames_per_run": 6,
+      "clips_per_run": 6,
+      "positive_clips": 4
+    }
+  },
+  "failure_threshold": 0.3,
+  "target_risk": 0.1,
+  "clip_criterion": 0.15,
+  "reference_failure_rate": 0.5,
+  "replay_tolerance": 1e-12,
+  "bootstrap_replicates": 40,
+  "bootstrap_seed": 20260913
+}

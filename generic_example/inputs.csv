@@ -1,0 +1,9 @@
+dataset,model,run,clip,frame,failure,retained,dice
+SyntheticHarbor,ToyAtlas,repeat-red,segment-alpha,img-1,true,true,0.1
+SyntheticHarbor,ToyAtlas,repeat-red,segment-alpha,img-2,false,true,0.8
+SyntheticHarbor,ToyAtlas,repeat-blue,segment-alpha,img-1,true,false,0.2
+SyntheticHarbor,ToyAtlas,repeat-blue,segment-alpha,img-2,false,true,0.7
+SyntheticHarbor,ToyAtlas,repeat-red,segment-beta,img-3,true,false,0.0
+SyntheticHarbor,ToyAtlas,repeat-blue,segment-beta,img-3,false,false,0.9
+SyntheticHarbor,ToyQuartz,repeat-red,segment-gamma,img-4,false,true,0.3
+SyntheticHarbor,ToyQuartz,repeat-blue,segment-gamma,img-4,true,false,0.299
